@@ -59,4 +59,3 @@ Route efficiency scores are relative to the currently filtered dataset. Delay fr
 - `region_metrics.csv` — regional summary
 - `Nassau_Candy_Research_Paper.docx` — research paper
 - `Nassau_Candy_Executive_Summary.docx` — executive summary
-- `Project_Feedback_Video_Script.txt` — feedback video script
