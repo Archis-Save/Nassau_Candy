@@ -1,0 +1,507 @@
+Factory,Region,State/Province,Ship Mode,Shipments,AverageLeadTime,LeadTimeStd,MedianLeadTime,DelayThreshold
+Lot's O' Nuts,Atlantic,Connecticut,First Class,13,1411.923076923077,238.09363058065398,1271.0,True
+Lot's O' Nuts,Atlantic,Connecticut,Same Day,5,1342.2,163.6801759529846,1269.0,True
+Lot's O' Nuts,Atlantic,Connecticut,Second Class,5,1419.6,328.0873359335895,1639.0,True
+Lot's O' Nuts,Atlantic,Connecticut,Standard Class,24,1441.75,263.7888236416791,1639.0,True
+Lot's O' Nuts,Atlantic,Delaware,First Class,10,1271.2,172.30064164451372,1271.5,False
+Lot's O' Nuts,Atlantic,Delaware,Same Day,2,1269.0,0.0,1269.0,False
+Lot's O' Nuts,Atlantic,Delaware,Second Class,5,1272.6,1.3416407864998834,1272.0,False
+Lot's O' Nuts,Atlantic,Delaware,Standard Class,26,1274.576923076923,309.714342332017,1275.0,True
+Lot's O' Nuts,Atlantic,District of Columbia,Second Class,3,1517.3333333333333,210.73284825421342,1639.0,True
+Lot's O' Nuts,Atlantic,District of Columbia,Standard Class,5,1275.0,0.0,1275.0,True
+Lot's O' Nuts,Atlantic,Maine,Standard Class,6,1213.5,149.66462507887425,1274.5,False
+Lot's O' Nuts,Atlantic,Maryland,First Class,12,1454.0833333333333,192.09489053511282,1454.5,True
+Lot's O' Nuts,Atlantic,Maryland,Same Day,3,1391.0,211.31019852340302,1269.0,True
+Lot's O' Nuts,Atlantic,Maryland,Second Class,8,1410.0,188.80450963137193,1274.0,True
+Lot's O' Nuts,Atlantic,Maryland,Standard Class,37,1333.4594594594594,236.43857489779393,1274.0,True
+Lot's O' Nuts,Atlantic,Massachusetts,First Class,14,1219.7142857142858,315.7616989906321,1271.5,False
+Lot's O' Nuts,Atlantic,Massachusetts,Same Day,4,1543.5,183.0,1635.0,True
+Lot's O' Nuts,Atlantic,Massachusetts,Second Class,19,1233.5263157894738,167.4648780494494,1271.0,False
+Lot's O' Nuts,Atlantic,Massachusetts,Standard Class,39,1320.871794871795,254.03089114755298,1274.0,True
+Lot's O' Nuts,Atlantic,New Brunswick,Standard Class,4,1273.25,298.4296399488496,1273.0,False
+Lot's O' Nuts,Atlantic,New Hampshire,First Class,2,1453.0,258.8010819142764,1453.0,True
+Lot's O' Nuts,Atlantic,New Hampshire,Second Class,5,1199.4,306.1009637358236,1274.0,False
+Lot's O' Nuts,Atlantic,New Hampshire,Standard Class,6,1273.1666666666667,0.4082482904638444,1273.0,False
+Lot's O' Nuts,Atlantic,New Jersey,First Class,8,1271.5,275.7255364099803,1271.0,False
+Lot's O' Nuts,Atlantic,New Jersey,Second Class,11,1338.7272727272727,219.65249413976207,1273.0,True
+Lot's O' Nuts,Atlantic,New Jersey,Standard Class,46,1346.0869565217392,295.0444656572563,1276.0,True
+Lot's O' Nuts,Atlantic,New York,First Class,107,1288.5140186915887,247.80467675265976,1271.0,True
+Lot's O' Nuts,Atlantic,New York,Same Day,34,1280.0,262.1178314723316,1269.0,True
+Lot's O' Nuts,Atlantic,New York,Second Class,123,1379.7723577235772,242.0242777758464,1274.0,True
+Lot's O' Nuts,Atlantic,New York,Standard Class,381,1330.9186351706037,248.76811480029065,1274.0,True
+Lot's O' Nuts,Atlantic,Newfoundland and Labrador,Standard Class,6,1216.1666666666667,357.44729215181735,1094.5,False
+Lot's O' Nuts,Atlantic,Ohio,First Class,61,1373.377049180328,241.7556730761054,1272.0,True
+Lot's O' Nuts,Atlantic,Ohio,Same Day,29,1307.103448275862,282.2126028404302,1269.0,True
+Lot's O' Nuts,Atlantic,Ohio,Second Class,46,1327.7826086956522,297.9810518244018,1272.0,True
+Lot's O' Nuts,Atlantic,Ohio,Standard Class,126,1323.6349206349207,250.44886434319028,1275.0,True
+Lot's O' Nuts,Atlantic,Ontario,First Class,4,1271.25,298.4296399488496,1271.0,False
+Lot's O' Nuts,Atlantic,Ontario,Second Class,8,1271.25,276.29215903253055,1271.0,False
+Lot's O' Nuts,Atlantic,Ontario,Standard Class,16,1227.5625,262.118031619345,1273.0,False
+Lot's O' Nuts,Atlantic,Pennsylvania,First Class,58,1365.948275862069,261.2518058303269,1272.0,True
+Lot's O' Nuts,Atlantic,Pennsylvania,Same Day,7,1373.7142857142858,276.38663395426966,1269.0,True
+Lot's O' Nuts,Atlantic,Pennsylvania,Second Class,56,1285.482142857143,250.77581375849192,1271.0,True
+Lot's O' Nuts,Atlantic,Pennsylvania,Standard Class,210,1306.942857142857,261.9983866626036,1273.0,True
+Lot's O' Nuts,Atlantic,Prince Edward Island,Standard Class,6,1395.8333333333333,298.67468367216304,1456.5,True
+Lot's O' Nuts,Atlantic,Quebec,Same Day,4,1269.5,422.04304677761644,1269.5,False
+Lot's O' Nuts,Atlantic,Quebec,Second Class,4,1455.5,211.31729697305897,1455.5,True
+Lot's O' Nuts,Atlantic,Quebec,Standard Class,16,1319.9375,294.7189551080826,1275.0,True
+Lot's O' Nuts,Atlantic,Rhode Island,First Class,11,1537.090909090909,170.68828579926304,1636.0,True
+Lot's O' Nuts,Atlantic,Rhode Island,Second Class,11,1139.2727272727273,296.5363690710099,906.0,False
+Lot's O' Nuts,Atlantic,Rhode Island,Standard Class,8,1183.375,257.1369493368966,1273.0,False
+Lot's O' Nuts,Atlantic,Vermont,Standard Class,5,1492.4,200.2855461584784,1638.0,True
+Lot's O' Nuts,Atlantic,West Virginia,Same Day,1,1635.0,,1635.0,True
+Lot's O' Nuts,Atlantic,West Virginia,Standard Class,1,1639.0,,1639.0,True
+Lot's O' Nuts,Gulf,Alabama,First Class,4,1454.5,210.73284825421337,1454.5,True
+Lot's O' Nuts,Gulf,Alabama,Second Class,8,1363.875,259.25576863674337,1272.0,True
+Lot's O' Nuts,Gulf,Alabama,Standard Class,22,1241.2727272727273,249.43138799280507,1273.0,False
+Lot's O' Nuts,Gulf,Arkansas,First Class,5,1343.2,163.6801759529846,1270.0,True
+Lot's O' Nuts,Gulf,Arkansas,Same Day,1,1635.0,,1635.0,True
+Lot's O' Nuts,Gulf,Arkansas,Second Class,5,1492.2,201.01790964986176,1637.0,True
+Lot's O' Nuts,Gulf,Arkansas,Standard Class,20,1201.7,280.91206715569245,1273.0,False
+Lot's O' Nuts,Gulf,Florida,First Class,29,1334.344827586207,309.83604833409987,1272.0,True
+Lot's O' Nuts,Gulf,Florida,Same Day,16,1246.375,248.5394334909452,1269.0,False
+Lot's O' Nuts,Gulf,Florida,Second Class,40,1345.6,300.87452022907655,1273.5,True
+Lot's O' Nuts,Gulf,Florida,Standard Class,124,1315.5403225806451,276.6547670825295,1274.0,True
+Lot's O' Nuts,Gulf,Georgia,First Class,12,1393.1666666666667,324.1892918800634,1636.0,True
+Lot's O' Nuts,Gulf,Georgia,Same Day,9,1228.4444444444443,121.66666666666669,1269.0,False
+Lot's O' Nuts,Gulf,Georgia,Second Class,19,1329.6315789473683,183.7024195468542,1272.0,True
+Lot's O' Nuts,Gulf,Georgia,Standard Class,70,1331.642857142857,253.5811356145101,1274.5,True
+Lot's O' Nuts,Gulf,Kentucky,First Class,5,1563.6,164.12738954848456,1637.0,True
+Lot's O' Nuts,Gulf,Kentucky,Same Day,3,1025.6666666666667,210.73284825421337,904.0,False
+Lot's O' Nuts,Gulf,Kentucky,Second Class,34,1380.0,292.1674488744735,1455.5,True
+Lot's O' Nuts,Gulf,Kentucky,Standard Class,35,1264.0285714285715,242.58345873901115,1274.0,False
+Lot's O' Nuts,Gulf,Louisiana,First Class,5,1563.0,163.7925517232087,1636.0,True
+Lot's O' Nuts,Gulf,Louisiana,Same Day,2,1269.0,0.0,1269.0,False
+Lot's O' Nuts,Gulf,Louisiana,Second Class,6,1211.8333333333333,359.4091911271422,1090.5,False
+Lot's O' Nuts,Gulf,Louisiana,Standard Class,11,1240.6363636363637,256.1395216389977,1274.0,False
+Lot's O' Nuts,Gulf,Mississippi,First Class,2,907.0,0.0,907.0,False
+Lot's O' Nuts,Gulf,Mississippi,Same Day,3,1635.0,0.0,1635.0,True
+Lot's O' Nuts,Gulf,Mississippi,Second Class,5,1492.6,327.9219419313078,1640.0,True
+Lot's O' Nuts,Gulf,Mississippi,Standard Class,20,1237.4,234.58909204236926,1273.0,False
+Lot's O' Nuts,Gulf,North Carolina,First Class,20,1399.25,214.26394814266868,1272.0,True
+Lot's O' Nuts,Gulf,North Carolina,Same Day,9,1472.4444444444443,193.00460558695943,1635.0,True
+Lot's O' Nuts,Gulf,North Carolina,Second Class,21,1324.904761904762,238.92863050750216,1273.0,True
+Lot's O' Nuts,Gulf,North Carolina,Standard Class,93,1278.1720430107528,255.815984460634,1274.0,True
+Lot's O' Nuts,Gulf,South Carolina,First Class,3,1393.6666666666667,210.73284825421337,1272.0,True
+Lot's O' Nuts,Gulf,South Carolina,Same Day,2,1086.5,258.0939751330898,1086.5,False
+Lot's O' Nuts,Gulf,South Carolina,Second Class,8,1227.125,304.21629405971754,1273.0,False
+Lot's O' Nuts,Gulf,South Carolina,Standard Class,8,1365.625,169.65674379253457,1274.0,True
+Lot's O' Nuts,Gulf,Tennessee,First Class,15,1369.4,292.0787075919288,1272.0,True
+Lot's O' Nuts,Gulf,Tennessee,Same Day,2,1635.0,0.0,1635.0,True
+Lot's O' Nuts,Gulf,Tennessee,Second Class,16,1409.3125,182.95307913961625,1273.0,True
+Lot's O' Nuts,Gulf,Tennessee,Standard Class,76,1384.9342105263158,266.89480252345686,1276.0,True
+Lot's O' Nuts,Gulf,Virginia,First Class,26,1158.8076923076924,225.64680706462826,1270.5,False
+Lot's O' Nuts,Gulf,Virginia,Same Day,2,1269.0,0.0,1269.0,False
+Lot's O' Nuts,Gulf,Virginia,Second Class,21,1220.2857142857142,289.4013031859297,1271.0,False
+Lot's O' Nuts,Gulf,Virginia,Standard Class,60,1262.0166666666667,268.95242422624676,1273.5,False
+Lot's O' Nuts,Interior,Illinois,First Class,40,1326.725,304.66568373572005,1272.0,True
+Lot's O' Nuts,Interior,Illinois,Same Day,10,1488.6,189.00158729492193,1635.0,True
+Lot's O' Nuts,Interior,Illinois,Second Class,62,1272.9516129032259,228.94858950581065,1273.0,False
+Lot's O' Nuts,Interior,Illinois,Standard Class,155,1326.090322580645,274.3645874630894,1274.0,True
+Lot's O' Nuts,Interior,Indiana,First Class,10,1308.4,320.11428514759467,1270.5,True
+Lot's O' Nuts,Interior,Indiana,Same Day,2,1269.0,0.0,1269.0,False
+Lot's O' Nuts,Interior,Indiana,Second Class,27,1407.7777777777778,179.7841298149904,1274.0,True
+Lot's O' Nuts,Interior,Indiana,Standard Class,51,1360.3725490196077,248.94922862176614,1275.0,True
+Lot's O' Nuts,Interior,Iowa,First Class,1,1270.0,,1270.0,False
+Lot's O' Nuts,Interior,Iowa,Second Class,5,1491.4,198.91656542379775,1636.0,True
+Lot's O' Nuts,Interior,Iowa,Standard Class,10,1493.7,189.3051915705314,1640.0,True
+Lot's O' Nuts,Interior,Kansas,First Class,5,1272.4,0.5477225575052025,1272.0,False
+Lot's O' Nuts,Interior,Kansas,Second Class,1,1271.0,,1271.0,False
+Lot's O' Nuts,Interior,Kansas,Standard Class,9,1233.3333333333333,284.678327239711,1273.0,False
+Lot's O' Nuts,Interior,Manitoba,First Class,2,1454.0,258.8010819142764,1454.0,True
+Lot's O' Nuts,Interior,Michigan,First Class,15,1490.8,185.2030545875836,1636.0,True
+Lot's O' Nuts,Interior,Michigan,Same Day,12,1330.0,142.4653067815587,1269.0,True
+Lot's O' Nuts,Interior,Michigan,Second Class,29,1297.2068965517242,237.51501897028157,1272.0,True
+Lot's O' Nuts,Interior,Michigan,Standard Class,91,1270.3406593406594,258.2592676525849,1273.0,False
+Lot's O' Nuts,Interior,Minnesota,First Class,4,1363.25,350.505706087647,1454.5,True
+Lot's O' Nuts,Interior,Minnesota,Second Class,4,1181.75,350.159368478602,1091.0,False
+Lot's O' Nuts,Interior,Minnesota,Standard Class,35,1368.2,270.78543709213096,1275.0,True
+Lot's O' Nuts,Interior,Missouri,First Class,3,1515.3333333333333,212.4648990617823,1638.0,True
+Lot's O' Nuts,Interior,Missouri,Same Day,2,1635.0,0.0,1635.0,True
+Lot's O' Nuts,Interior,Missouri,Second Class,15,1420.1333333333334,332.73195275018657,1639.0,True
+Lot's O' Nuts,Interior,Missouri,Standard Class,16,1251.0,161.64817763690786,1273.5,False
+Lot's O' Nuts,Interior,Nebraska,First Class,4,1179.75,350.50570608764707,1088.5,False
+Lot's O' Nuts,Interior,Nebraska,Same Day,2,1635.0,0.0,1635.0,True
+Lot's O' Nuts,Interior,Nebraska,Second Class,2,1271.0,0.0,1271.0,False
+Lot's O' Nuts,Interior,Nebraska,Standard Class,15,1346.6666666666667,204.87859355051742,1274.0,True
+Lot's O' Nuts,Interior,North Dakota,Second Class,3,1637.0,0.0,1637.0,True
+Lot's O' Nuts,Interior,North Dakota,Standard Class,2,1640.0,0.0,1640.0,True
+Lot's O' Nuts,Interior,Oklahoma,First Class,4,1362.5,182.33394271683667,1271.5,True
+Lot's O' Nuts,Interior,Oklahoma,Same Day,4,1452.0,211.31019852340302,1452.0,True
+Lot's O' Nuts,Interior,Oklahoma,Second Class,4,909.0,0.0,909.0,False
+Lot's O' Nuts,Interior,Oklahoma,Standard Class,29,1299.8620689655172,216.65900201170817,1274.0,True
+Lot's O' Nuts,Interior,South Dakota,Second Class,1,1638.0,,1638.0,True
+Lot's O' Nuts,Interior,South Dakota,Standard Class,8,1457.125,338.92748381580725,1640.0,True
+Lot's O' Nuts,Interior,Texas,First Class,72,1357.8194444444443,248.93663011652484,1272.0,True
+Lot's O' Nuts,Interior,Texas,Same Day,26,1353.6923076923076,238.22590442364054,1269.0,True
+Lot's O' Nuts,Interior,Texas,Second Class,114,1281.798245614035,263.9777806359114,1272.0,True
+Lot's O' Nuts,Interior,Texas,Standard Class,357,1306.9131652661065,262.32141227399796,1274.0,True
+Lot's O' Nuts,Interior,Wisconsin,First Class,5,1271.6,365.0004109586728,1272.0,False
+Lot's O' Nuts,Interior,Wisconsin,Same Day,6,1574.0,149.41887430977386,1635.0,True
+Lot's O' Nuts,Interior,Wisconsin,Second Class,8,1272.0,1.0690449676497695,1272.0,False
+Lot's O' Nuts,Interior,Wisconsin,Standard Class,39,1367.820512820513,247.58208333642347,1274.0,True
+Lot's O' Nuts,Pacific,Alberta,Second Class,10,1273.5,172.29964209674563,1273.0,False
+Lot's O' Nuts,Pacific,Alberta,Standard Class,6,1274.5,400.3851895362764,1274.5,True
+Lot's O' Nuts,Pacific,Arizona,First Class,17,1206.8235294117646,295.0926200564234,1271.0,False
+Lot's O' Nuts,Pacific,Arizona,Same Day,10,1379.0,246.7679972047519,1269.5,True
+Lot's O' Nuts,Pacific,Arizona,Second Class,12,1303.0833333333333,244.4792083865893,1273.5,True
+Lot's O' Nuts,Pacific,Arizona,Standard Class,72,1320.0694444444443,244.87969603885358,1274.0,True
+Lot's O' Nuts,Pacific,British Columbia,Second Class,2,1271.5,516.8950570473662,1271.5,False
+Lot's O' Nuts,Pacific,British Columbia,Standard Class,16,1274.0625,298.42977258756656,1274.0,True
+Lot's O' Nuts,Pacific,California,First Class,202,1318.3118811881188,261.19647540425865,1271.0,True
+Lot's O' Nuts,Pacific,California,Same Day,69,1311.6376811594203,239.00768945386108,1269.0,True
+Lot's O' Nuts,Pacific,California,Second Class,226,1322.5353982300885,263.19875224977903,1273.0,True
+Lot's O' Nuts,Pacific,California,Standard Class,628,1315.0143312101911,270.74255758868736,1274.0,True
+Lot's O' Nuts,Pacific,Colorado,First Class,24,1377.9583333333333,274.4642970630587,1272.0,True
+Lot's O' Nuts,Pacific,Colorado,Same Day,2,1086.5,258.0939751330898,1086.5,False
+Lot's O' Nuts,Pacific,Colorado,Second Class,23,1319.5217391304348,276.81957851890354,1272.0,True
+Lot's O' Nuts,Pacific,Colorado,Standard Class,54,1355.611111111111,231.72246059054842,1275.0,True
+Lot's O' Nuts,Pacific,Idaho,First Class,2,1637.5,0.7071067811865476,1637.5,True
+Lot's O' Nuts,Pacific,Idaho,Second Class,3,1271.0,0.0,1271.0,False
+Lot's O' Nuts,Pacific,Idaho,Standard Class,9,1314.5555555555557,286.13419540100017,1273.0,True
+Lot's O' Nuts,Pacific,Montana,Standard Class,8,1319.25,234.00167887065626,1273.5,True
+Lot's O' Nuts,Pacific,Nevada,First Class,2,1271.0,1.4142135623730951,1271.0,False
+Lot's O' Nuts,Pacific,Nevada,Same Day,1,904.0,,904.0,False
+Lot's O' Nuts,Pacific,Nevada,Second Class,6,1150.6666666666667,187.97198372807225,1271.0,False
+Lot's O' Nuts,Pacific,Nevada,Standard Class,15,1299.2,256.980043694336,1275.0,True
+Lot's O' Nuts,Pacific,New Mexico,First Class,1,1636.0,,1636.0,True
+Lot's O' Nuts,Pacific,New Mexico,Second Class,3,1396.3333333333333,422.04304677761644,1640.0,True
+Lot's O' Nuts,Pacific,New Mexico,Standard Class,14,1457.142857142857,237.7092138089526,1639.0,True
+Lot's O' Nuts,Pacific,Oregon,First Class,14,1401.9285714285713,181.36256262216608,1272.0,True
+Lot's O' Nuts,Pacific,Oregon,Second Class,10,1089.5,191.31954073399473,1090.0,False
+Lot's O' Nuts,Pacific,Oregon,Standard Class,53,1233.1698113207547,283.67104024048285,1274.0,False
+Lot's O' Nuts,Pacific,Utah,First Class,2,1271.5,515.4808434849931,1271.5,False
+Lot's O' Nuts,Pacific,Utah,Same Day,1,1635.0,,1635.0,True
+Lot's O' Nuts,Pacific,Utah,Second Class,11,1240.3636363636363,381.6664178906163,909.0,False
+Lot's O' Nuts,Pacific,Utah,Standard Class,15,1201.4666666666667,204.92990671609326,1275.0,False
+Lot's O' Nuts,Pacific,Washington,First Class,35,1428.2571428571428,297.99351975357774,1637.0,True
+Lot's O' Nuts,Pacific,Washington,Same Day,20,1415.65,275.6619354056321,1635.0,True
+Lot's O' Nuts,Pacific,Washington,Second Class,52,1321.7692307692307,270.71985486662146,1273.0,True
+Lot's O' Nuts,Pacific,Washington,Standard Class,162,1324.0246913580247,268.67073178794385,1275.0,True
+Lot's O' Nuts,Pacific,Wyoming,Standard Class,1,1274.0,,1274.0,False
+Secret Factory,Atlantic,Connecticut,First Class,1,1638.0,,1638.0,True
+Secret Factory,Atlantic,Delaware,Standard Class,1,909.0,,909.0,False
+Secret Factory,Atlantic,Maryland,Second Class,1,1638.0,,1638.0,True
+Secret Factory,Atlantic,Maryland,Standard Class,2,1457.5,259.50818869546293,1457.5,True
+Secret Factory,Atlantic,Massachusetts,First Class,1,1271.0,,1271.0,False
+Secret Factory,Atlantic,Massachusetts,Standard Class,1,1639.0,,1639.0,True
+Secret Factory,Atlantic,New Hampshire,Standard Class,1,1641.0,,1641.0,True
+Secret Factory,Atlantic,New Jersey,Standard Class,2,1274.5,2.1213203435596424,1274.5,True
+Secret Factory,Atlantic,New York,First Class,6,1454.0,306.2182228411627,1636.5,True
+Secret Factory,Atlantic,New York,Same Day,1,1269.0,,1269.0,False
+Secret Factory,Atlantic,New York,Second Class,4,1455.75,211.0250774987024,1455.0,True
+Secret Factory,Atlantic,New York,Standard Class,13,1330.3846153846155,292.9159545164046,1274.0,True
+Secret Factory,Atlantic,Ohio,First Class,4,1362.75,349.98321388318044,1454.0,True
+Secret Factory,Atlantic,Ohio,Standard Class,9,1273.888888888889,316.3887815822665,1275.0,False
+Secret Factory,Atlantic,Pennsylvania,First Class,4,1272.25,422.3319192294137,1272.5,False
+Secret Factory,Atlantic,Pennsylvania,Same Day,2,1269.0,0.0,1269.0,False
+Secret Factory,Atlantic,Pennsylvania,Second Class,2,1089.5,256.6797615707168,1089.5,False
+Secret Factory,Atlantic,Pennsylvania,Standard Class,11,1373.6363636363637,287.2000253228654,1275.0,True
+Secret Factory,Atlantic,Quebec,Standard Class,2,1273.5,516.8950570473662,1273.5,False
+Secret Factory,Atlantic,Rhode Island,First Class,1,1271.0,,1271.0,False
+Secret Factory,Atlantic,Rhode Island,Second Class,1,1637.0,,1637.0,True
+Secret Factory,Atlantic,Rhode Island,Standard Class,1,1275.0,,1275.0,True
+Secret Factory,Atlantic,Vermont,Standard Class,1,1273.0,,1273.0,False
+Secret Factory,Gulf,Alabama,First Class,1,1272.0,,1272.0,False
+Secret Factory,Gulf,Alabama,Second Class,2,1272.5,518.3092706097393,1272.5,False
+Secret Factory,Gulf,Arkansas,Second Class,1,1640.0,,1640.0,True
+Secret Factory,Gulf,Arkansas,Standard Class,1,1273.0,,1273.0,False
+Secret Factory,Gulf,Florida,Second Class,4,1547.5,184.33393610510245,1639.5,True
+Secret Factory,Gulf,Florida,Standard Class,3,1395.0,211.31019852340302,1273.0,True
+Secret Factory,Gulf,Georgia,First Class,2,1272.5,516.8950570473662,1272.5,False
+Secret Factory,Gulf,Georgia,Standard Class,5,1420.0,326.4659247149693,1639.0,True
+Secret Factory,Gulf,Kentucky,Second Class,2,1637.5,0.7071067811865476,1637.5,True
+Secret Factory,Gulf,Louisiana,Second Class,1,909.0,,909.0,False
+Secret Factory,Gulf,Louisiana,Standard Class,1,908.0,,908.0,False
+Secret Factory,Gulf,Mississippi,Standard Class,1,908.0,,908.0,False
+Secret Factory,Gulf,North Carolina,Same Day,1,1635.0,,1635.0,True
+Secret Factory,Gulf,North Carolina,Standard Class,3,1519.0,210.449518887547,1639.0,True
+Secret Factory,Gulf,South Carolina,Standard Class,1,909.0,,909.0,False
+Secret Factory,Gulf,Tennessee,Standard Class,3,1395.3333333333333,211.8875487925927,1273.0,True
+Secret Factory,Gulf,Virginia,First Class,2,906.0,0.0,906.0,False
+Secret Factory,Gulf,Virginia,Second Class,2,1272.5,2.1213203435596424,1272.5,False
+Secret Factory,Gulf,Virginia,Standard Class,1,910.0,,910.0,False
+Secret Factory,Interior,Illinois,First Class,3,1394.0,421.75466802395914,1637.0,True
+Secret Factory,Interior,Illinois,Same Day,2,1635.0,0.0,1635.0,True
+Secret Factory,Interior,Illinois,Second Class,2,1637.5,0.7071067811865476,1637.5,True
+Secret Factory,Interior,Illinois,Standard Class,6,1091.0,306.4571748221927,908.0,False
+Secret Factory,Interior,Indiana,First Class,1,1637.0,,1637.0,True
+Secret Factory,Interior,Indiana,Standard Class,3,1396.0,210.44476710053877,1275.0,True
+Secret Factory,Interior,Michigan,Same Day,1,1269.0,,1269.0,False
+Secret Factory,Interior,Michigan,Standard Class,4,1365.5,350.41832143881976,1457.0,True
+Secret Factory,Interior,Minnesota,Second Class,1,909.0,,909.0,False
+Secret Factory,Interior,Nebraska,Second Class,1,906.0,,906.0,False
+Secret Factory,Interior,Texas,First Class,5,1198.2,400.5692199857598,907.0,False
+Secret Factory,Interior,Texas,Second Class,4,1180.5,183.0018214845597,1271.5,False
+Secret Factory,Interior,Texas,Standard Class,7,1274.2857142857142,365.8345319429328,1273.0,True
+Secret Factory,Interior,Wisconsin,First Class,1,1272.0,,1272.0,False
+Secret Factory,Interior,Wisconsin,Second Class,1,1272.0,,1272.0,False
+Secret Factory,Interior,Wisconsin,Standard Class,3,1396.0,210.44476710053877,1275.0,True
+Secret Factory,Pacific,Alberta,Standard Class,2,1274.5,516.8950570473662,1274.5,True
+Secret Factory,Pacific,Arizona,First Class,2,1089.5,258.0939751330898,1089.5,False
+Secret Factory,Pacific,Arizona,Standard Class,3,1152.6666666666667,422.90936775310774,909.0,False
+Secret Factory,Pacific,California,First Class,5,1271.6,258.4488343947405,1271.0,False
+Secret Factory,Pacific,California,Same Day,2,1269.5,516.8950570473662,1269.5,False
+Secret Factory,Pacific,California,Second Class,9,1434.5555555555557,265.45532162263726,1637.0,True
+Secret Factory,Pacific,California,Standard Class,15,1249.9333333333334,291.59009062788977,1274.0,False
+Secret Factory,Pacific,Colorado,First Class,3,1393.0,212.1768130592973,1271.0,True
+Secret Factory,Pacific,Colorado,Same Day,1,1270.0,,1270.0,False
+Secret Factory,Pacific,Colorado,Second Class,1,1272.0,,1272.0,False
+Secret Factory,Pacific,Colorado,Standard Class,2,1457.5,256.6797615707168,1457.5,True
+Secret Factory,Pacific,Nevada,First Class,1,906.0,,906.0,False
+Secret Factory,Pacific,Nevada,Standard Class,1,1276.0,,1276.0,True
+Secret Factory,Pacific,New Mexico,Same Day,1,904.0,,904.0,False
+Secret Factory,Pacific,New Mexico,Standard Class,1,908.0,,908.0,False
+Secret Factory,Pacific,Oregon,First Class,1,1272.0,,1272.0,False
+Secret Factory,Pacific,Oregon,Second Class,1,1271.0,,1271.0,False
+Secret Factory,Pacific,Utah,Standard Class,1,1275.0,,1275.0,True
+Secret Factory,Pacific,Washington,First Class,3,1514.6666666666667,211.88754879259264,1637.0,True
+Secret Factory,Pacific,Washington,Second Class,3,1516.0,209.57814771583415,1637.0,True
+Secret Factory,Pacific,Washington,Standard Class,5,1420.8,200.56096330043894,1276.0,True
+Sugar Shack,Atlantic,Connecticut,Standard Class,1,1641.0,,1641.0,True
+Sugar Shack,Atlantic,Delaware,Standard Class,1,910.0,,910.0,False
+Sugar Shack,Atlantic,New Jersey,Standard Class,1,1642.0,,1642.0,True
+Sugar Shack,Atlantic,New York,First Class,2,1454.0,258.8010819142764,1454.0,True
+Sugar Shack,Atlantic,New York,Second Class,1,1640.0,,1640.0,True
+Sugar Shack,Atlantic,New York,Standard Class,6,1213.1666666666667,275.02902877090384,1274.0,False
+Sugar Shack,Atlantic,Ohio,Same Day,1,1635.0,,1635.0,True
+Sugar Shack,Atlantic,Ohio,Standard Class,1,1640.0,,1640.0,True
+Sugar Shack,Atlantic,Pennsylvania,Standard Class,3,1396.3333333333333,211.02211574461418,1275.0,True
+Sugar Shack,Atlantic,Rhode Island,Standard Class,1,1273.0,,1273.0,False
+Sugar Shack,Gulf,Florida,Standard Class,3,1031.0,211.31019852340302,909.0,False
+Sugar Shack,Gulf,Tennessee,Second Class,1,1272.0,,1272.0,False
+Sugar Shack,Interior,Illinois,First Class,1,907.0,,907.0,False
+Sugar Shack,Interior,Illinois,Second Class,1,1271.0,,1271.0,False
+Sugar Shack,Interior,Michigan,First Class,1,1272.0,,1272.0,False
+Sugar Shack,Interior,Michigan,Standard Class,2,1456.5,259.50818869546293,1456.5,True
+Sugar Shack,Interior,Texas,Second Class,1,1272.0,,1272.0,False
+Sugar Shack,Interior,Texas,Standard Class,2,1457.0,260.2152954766495,1457.0,True
+Sugar Shack,Pacific,Arizona,Standard Class,1,1274.0,,1274.0,False
+Sugar Shack,Pacific,California,Second Class,1,1638.0,,1638.0,True
+Sugar Shack,Pacific,Washington,Standard Class,1,1638.0,,1638.0,True
+The Other Factory,Atlantic,Connecticut,Second Class,1,906.0,,906.0,False
+The Other Factory,Atlantic,Connecticut,Standard Class,1,909.0,,909.0,False
+The Other Factory,Atlantic,Delaware,Second Class,1,1272.0,,1272.0,False
+The Other Factory,Atlantic,Delaware,Standard Class,1,1641.0,,1641.0,True
+The Other Factory,Atlantic,Maryland,Standard Class,1,1274.0,,1274.0,False
+The Other Factory,Atlantic,Massachusetts,First Class,1,907.0,,907.0,False
+The Other Factory,Atlantic,Massachusetts,Second Class,1,1272.0,,1272.0,False
+The Other Factory,Atlantic,Massachusetts,Standard Class,1,1273.0,,1273.0,False
+The Other Factory,Atlantic,New Hampshire,Second Class,2,1088.5,258.0939751330898,1088.5,False
+The Other Factory,Atlantic,New Jersey,Standard Class,3,1395.3333333333333,211.02211574461418,1274.0,True
+The Other Factory,Atlantic,New York,First Class,1,1272.0,,1272.0,False
+The Other Factory,Atlantic,New York,Same Day,1,1269.0,,1269.0,False
+The Other Factory,Atlantic,New York,Second Class,2,1273.0,519.0163773909259,1273.0,False
+The Other Factory,Atlantic,New York,Standard Class,10,1384.0,346.9146548904756,1639.0,True
+The Other Factory,Atlantic,Ohio,First Class,1,1271.0,,1271.0,False
+The Other Factory,Atlantic,Ohio,Second Class,1,1271.0,,1271.0,False
+The Other Factory,Atlantic,Ohio,Standard Class,1,1274.0,,1274.0,False
+The Other Factory,Atlantic,Pennsylvania,First Class,2,1454.0,258.8010819142764,1454.0,True
+The Other Factory,Atlantic,Pennsylvania,Same Day,1,1269.0,,1269.0,False
+The Other Factory,Atlantic,Pennsylvania,Standard Class,4,1183.5,183.66908649343614,1275.0,False
+The Other Factory,Atlantic,Rhode Island,Standard Class,1,1273.0,,1273.0,False
+The Other Factory,Gulf,Alabama,Standard Class,2,1457.0,257.3868683519033,1457.0,True
+The Other Factory,Gulf,Florida,First Class,2,906.5,0.7071067811865476,906.5,False
+The Other Factory,Gulf,Florida,Standard Class,1,1275.0,,1275.0,True
+The Other Factory,Gulf,Georgia,Standard Class,2,1456.0,258.8010819142764,1456.0,True
+The Other Factory,Gulf,Kentucky,First Class,1,1638.0,,1638.0,True
+The Other Factory,Gulf,Kentucky,Same Day,1,904.0,,904.0,False
+The Other Factory,Gulf,Louisiana,Second Class,1,907.0,,907.0,False
+The Other Factory,Gulf,North Carolina,Same Day,1,1635.0,,1635.0,True
+The Other Factory,Gulf,South Carolina,Second Class,1,1273.0,,1273.0,False
+The Other Factory,Gulf,Tennessee,Second Class,1,1271.0,,1271.0,False
+The Other Factory,Gulf,Tennessee,Standard Class,2,1458.0,257.3868683519033,1458.0,True
+The Other Factory,Gulf,Virginia,First Class,1,1272.0,,1272.0,False
+The Other Factory,Gulf,Virginia,Same Day,1,1269.0,,1269.0,False
+The Other Factory,Gulf,Virginia,Standard Class,2,1090.5,258.0939751330898,1090.5,False
+The Other Factory,Interior,Indiana,Standard Class,1,1274.0,,1274.0,False
+The Other Factory,Interior,Missouri,Standard Class,1,1275.0,,1275.0,True
+The Other Factory,Interior,Texas,First Class,2,1272.0,517.6021638285528,1272.0,False
+The Other Factory,Interior,Texas,Second Class,2,1272.0,517.6021638285528,1272.0,False
+The Other Factory,Interior,Texas,Standard Class,5,1127.2,199.6451852662618,1273.0,False
+The Other Factory,Pacific,Arizona,First Class,1,1272.0,,1272.0,False
+The Other Factory,Pacific,Arizona,Second Class,1,1271.0,,1271.0,False
+The Other Factory,Pacific,California,First Class,3,1393.3333333333333,211.88990852169755,1272.0,True
+The Other Factory,Pacific,California,Same Day,2,1452.0,258.8010819142764,1452.0,True
+The Other Factory,Pacific,California,Second Class,5,1564.6,164.13043593435071,1637.0,True
+The Other Factory,Pacific,California,Standard Class,11,1174.3636363636363,236.30331048348543,1273.0,False
+The Other Factory,Pacific,Colorado,Second Class,1,1272.0,,1272.0,False
+The Other Factory,Pacific,Colorado,Standard Class,1,1275.0,,1275.0,True
+The Other Factory,Pacific,Nevada,First Class,1,1638.0,,1638.0,True
+The Other Factory,Pacific,Oregon,First Class,1,1272.0,,1272.0,False
+The Other Factory,Pacific,Oregon,Second Class,1,906.0,,906.0,False
+The Other Factory,Pacific,Washington,Standard Class,4,1275.0,298.0234890071586,1276.0,True
+Wicked Choccy's,Atlantic,Connecticut,First Class,5,1271.4,258.09455631609126,1271.0,False
+Wicked Choccy's,Atlantic,Connecticut,Same Day,5,1269.2,258.4476736207931,1269.0,False
+Wicked Choccy's,Atlantic,Connecticut,Second Class,5,1126.2,328.2547790969691,906.0,False
+Wicked Choccy's,Atlantic,Connecticut,Standard Class,16,1320.3125,262.88418711161245,1275.0,True
+Wicked Choccy's,Atlantic,Delaware,First Class,8,1180.625,168.88621486500477,1272.0,False
+Wicked Choccy's,Atlantic,Delaware,Second Class,10,1308.8,116.37754651707233,1272.0,True
+Wicked Choccy's,Atlantic,Delaware,Standard Class,31,1286.4193548387098,239.89216663514298,1275.0,True
+Wicked Choccy's,Atlantic,District of Columbia,Standard Class,2,1275.0,0.0,1275.0,True
+Wicked Choccy's,Atlantic,Maine,Standard Class,2,908.0,0.0,908.0,False
+Wicked Choccy's,Atlantic,Maryland,First Class,6,1576.6666666666667,149.25637898149168,1637.5,True
+Wicked Choccy's,Atlantic,Maryland,Same Day,4,1452.0,211.31019852340302,1452.0,True
+Wicked Choccy's,Atlantic,Maryland,Second Class,5,1491.8,199.73782816482213,1637.0,True
+Wicked Choccy's,Atlantic,Maryland,Standard Class,26,1218.0,246.70338465452798,1274.0,False
+Wicked Choccy's,Atlantic,Massachusetts,First Class,4,1271.5,298.83942176359534,1271.0,False
+Wicked Choccy's,Atlantic,Massachusetts,Second Class,15,1370.2,216.49618934290737,1274.0,True
+Wicked Choccy's,Atlantic,Massachusetts,Standard Class,35,1326.3142857142857,267.80378807545463,1275.0,True
+Wicked Choccy's,Atlantic,New Brunswick,Standard Class,4,1273.25,298.4296399488496,1273.0,False
+Wicked Choccy's,Atlantic,New Hampshire,Second Class,4,1181.0,350.59378203271086,1090.0,False
+Wicked Choccy's,Atlantic,New Hampshire,Standard Class,7,1431.0,195.81709152505894,1276.0,True
+Wicked Choccy's,Atlantic,New Jersey,First Class,6,1271.8333333333333,0.40824829046385747,1272.0,False
+Wicked Choccy's,Atlantic,New Jersey,Same Day,1,1635.0,,1635.0,True
+Wicked Choccy's,Atlantic,New Jersey,Second Class,13,1243.6923076923076,179.93998287178263,1271.0,False
+Wicked Choccy's,Atlantic,New Jersey,Standard Class,39,1368.051282051282,233.22712543309947,1275.0,True
+Wicked Choccy's,Atlantic,New York,First Class,63,1265.5238095238096,241.31948152998064,1271.0,False
+Wicked Choccy's,Atlantic,New York,Same Day,26,1184.8846153846155,238.0699606289003,1269.0,False
+Wicked Choccy's,Atlantic,New York,Second Class,79,1393.0506329113923,239.4140228276477,1274.0,True
+Wicked Choccy's,Atlantic,New York,Standard Class,268,1311.1753731343283,241.25116100679455,1274.0,True
+Wicked Choccy's,Atlantic,Nova Scotia,Second Class,2,1271.5,516.8950570473662,1271.5,False
+Wicked Choccy's,Atlantic,Nova Scotia,Standard Class,4,1273.25,298.4296399488496,1273.0,False
+Wicked Choccy's,Atlantic,Ohio,First Class,27,1352.6296296296296,255.30918633449255,1272.0,True
+Wicked Choccy's,Atlantic,Ohio,Same Day,22,1269.1818181818182,225.59163197154376,1269.0,False
+Wicked Choccy's,Atlantic,Ohio,Second Class,47,1287.9574468085107,263.78704828992926,1272.0,True
+Wicked Choccy's,Atlantic,Ohio,Standard Class,93,1325.236559139785,282.98323033158914,1274.0,True
+Wicked Choccy's,Atlantic,Ontario,Second Class,4,1271.25,298.4296399488496,1271.0,False
+Wicked Choccy's,Atlantic,Ontario,Standard Class,26,1245.076923076923,290.5590367656009,1273.0,False
+Wicked Choccy's,Atlantic,Pennsylvania,First Class,45,1385.2,231.6761650549004,1272.0,True
+Wicked Choccy's,Atlantic,Pennsylvania,Same Day,6,1391.0,189.00158729492193,1269.0,True
+Wicked Choccy's,Atlantic,Pennsylvania,Second Class,33,1272.5454545454545,274.0028616307104,1271.0,False
+Wicked Choccy's,Atlantic,Pennsylvania,Standard Class,143,1337.9650349650349,272.0743843139643,1274.0,True
+Wicked Choccy's,Atlantic,Prince Edward Island,Standard Class,4,1457.0,211.31019852340302,1457.0,True
+Wicked Choccy's,Atlantic,Quebec,First Class,2,1272.5,516.8950570473662,1272.5,False
+Wicked Choccy's,Atlantic,Quebec,Standard Class,22,1240.9545454545455,317.51272599508695,1274.0,False
+Wicked Choccy's,Atlantic,Rhode Island,First Class,6,1515.0,189.00264548413074,1636.5,True
+Wicked Choccy's,Atlantic,Rhode Island,Second Class,9,1393.888888888889,316.8704169074657,1637.0,True
+Wicked Choccy's,Atlantic,Rhode Island,Standard Class,6,1153.0,187.45452781941543,1273.0,False
+Wicked Choccy's,Atlantic,Vermont,Second Class,1,1271.0,,1271.0,False
+Wicked Choccy's,Atlantic,Vermont,Standard Class,4,1455.5,210.73284825421337,1455.5,True
+Wicked Choccy's,Atlantic,West Virginia,Standard Class,2,1639.0,0.0,1639.0,True
+Wicked Choccy's,Gulf,Alabama,First Class,4,1180.75,182.50000000000003,1272.0,False
+Wicked Choccy's,Gulf,Alabama,Same Day,1,1269.0,,1269.0,False
+Wicked Choccy's,Gulf,Alabama,Second Class,8,1226.625,363.20397161925416,1089.0,False
+Wicked Choccy's,Gulf,Alabama,Standard Class,9,1355.0,161.01475087705475,1274.0,True
+Wicked Choccy's,Gulf,Arkansas,First Class,5,1343.6,163.4588633265263,1270.0,True
+Wicked Choccy's,Gulf,Arkansas,Same Day,1,1635.0,,1635.0,True
+Wicked Choccy's,Gulf,Arkansas,Second Class,4,1547.25,183.50544951036198,1638.5,True
+Wicked Choccy's,Gulf,Arkansas,Standard Class,17,1167.235294117647,310.0589720947784,911.0,False
+Wicked Choccy's,Gulf,Florida,First Class,23,1207.7826086956522,237.65367401894616,1270.0,False
+Wicked Choccy's,Gulf,Florida,Same Day,12,1269.1666666666667,220.40493037437562,1269.0,False
+Wicked Choccy's,Gulf,Florida,Second Class,23,1177.304347826087,296.05764714795424,1271.0,False
+Wicked Choccy's,Gulf,Florida,Standard Class,103,1359.5436893203882,230.12808780768194,1275.0,True
+Wicked Choccy's,Gulf,Georgia,First Class,8,1271.5,338.3881963493576,1271.5,False
+Wicked Choccy's,Gulf,Georgia,Same Day,6,1269.1666666666667,231.1626411569713,1269.0,False
+Wicked Choccy's,Gulf,Georgia,Second Class,12,1394.0,180.20997853514206,1273.0,True
+Wicked Choccy's,Gulf,Georgia,Standard Class,39,1358.5897435897436,257.5639642525942,1275.0,True
+Wicked Choccy's,Gulf,Kentucky,First Class,7,1376.2857142857142,348.06068162784214,1637.0,True
+Wicked Choccy's,Gulf,Kentucky,Same Day,1,904.0,,904.0,False
+Wicked Choccy's,Gulf,Kentucky,Second Class,17,1444.5294117647059,262.4643112994266,1637.0,True
+Wicked Choccy's,Gulf,Kentucky,Standard Class,33,1263.2121212121212,232.58328583216127,1274.0,False
+Wicked Choccy's,Gulf,Louisiana,First Class,5,1490.0,199.9199839935968,1636.0,True
+Wicked Choccy's,Gulf,Louisiana,Second Class,7,1116.0,356.5954757611674,907.0,False
+Wicked Choccy's,Gulf,Louisiana,Standard Class,3,1274.0,366.0,1274.0,False
+Wicked Choccy's,Gulf,Mississippi,First Class,1,907.0,,907.0,False
+Wicked Choccy's,Gulf,Mississippi,Same Day,1,1635.0,,1635.0,True
+Wicked Choccy's,Gulf,Mississippi,Second Class,2,1272.5,2.1213203435596424,1272.5,False
+Wicked Choccy's,Gulf,Mississippi,Standard Class,18,1233.5,213.30570439960528,1274.0,False
+Wicked Choccy's,Gulf,North Carolina,First Class,18,1433.4444444444443,224.5615917665619,1453.5,True
+Wicked Choccy's,Gulf,North Carolina,Same Day,3,1025.6666666666667,210.73284825421337,904.0,False
+Wicked Choccy's,Gulf,North Carolina,Second Class,21,1411.6666666666667,244.35595620596868,1273.0,True
+Wicked Choccy's,Gulf,North Carolina,Standard Class,59,1323.8135593220338,266.98808410555347,1274.0,True
+Wicked Choccy's,Gulf,South Carolina,Same Day,3,1147.3333333333333,210.73284825421342,1269.0,False
+Wicked Choccy's,Gulf,South Carolina,Second Class,9,1232.111111111111,285.9210749684448,1273.0,False
+Wicked Choccy's,Gulf,South Carolina,Standard Class,7,1274.142857142857,211.3113252773646,1274.0,True
+Wicked Choccy's,Gulf,Tennessee,First Class,7,1428.4285714285713,195.41396840456176,1272.0,True
+Wicked Choccy's,Gulf,Tennessee,Second Class,7,1376.5714285714287,179.27433088505927,1272.0,True
+Wicked Choccy's,Gulf,Tennessee,Standard Class,53,1391.4528301886792,256.1562448402968,1276.0,True
+Wicked Choccy's,Gulf,Virginia,First Class,21,1289.142857142857,270.4600313751157,1272.0,True
+Wicked Choccy's,Gulf,Virginia,Same Day,2,1086.5,258.0939751330898,1086.5,False
+Wicked Choccy's,Gulf,Virginia,Second Class,20,1199.25,224.86367214966404,1271.0,False
+Wicked Choccy's,Gulf,Virginia,Standard Class,63,1239.5396825396826,260.09624926893594,1274.0,False
+Wicked Choccy's,Interior,Illinois,First Class,23,1351.0869565217392,310.8178234393725,1272.0,True
+Wicked Choccy's,Interior,Illinois,Same Day,14,1504.2857142857142,181.99172786417796,1635.0,True
+Wicked Choccy's,Interior,Illinois,Second Class,39,1319.974358974359,240.133788058535,1274.0,True
+Wicked Choccy's,Interior,Illinois,Standard Class,134,1309.7238805970148,268.31429757389395,1274.0,True
+Wicked Choccy's,Interior,Indiana,First Class,5,1417.6,200.2855461584785,1272.0,True
+Wicked Choccy's,Interior,Indiana,Same Day,1,904.0,,904.0,False
+Wicked Choccy's,Interior,Indiana,Second Class,8,1318.5,128.7000943500597,1274.0,True
+Wicked Choccy's,Interior,Indiana,Standard Class,40,1429.825,273.1167579287995,1639.5,True
+Wicked Choccy's,Interior,Iowa,Same Day,1,1269.0,,1269.0,False
+Wicked Choccy's,Interior,Iowa,Second Class,5,1491.2,199.1901101962645,1636.0,True
+Wicked Choccy's,Interior,Iowa,Standard Class,8,1366.0,324.1031581809365,1458.0,True
+Wicked Choccy's,Interior,Kansas,First Class,1,1273.0,,1273.0,False
+Wicked Choccy's,Interior,Kansas,Same Day,1,1635.0,,1635.0,True
+Wicked Choccy's,Interior,Kansas,Second Class,1,1271.0,,1271.0,False
+Wicked Choccy's,Interior,Kansas,Standard Class,6,1274.5,399.29124708663477,1275.0,True
+Wicked Choccy's,Interior,Manitoba,First Class,2,1454.0,258.8010819142764,1454.0,True
+Wicked Choccy's,Interior,Manitoba,Standard Class,8,1456.0,195.63522907989463,1456.0,True
+Wicked Choccy's,Interior,Michigan,First Class,5,1417.6,200.28679437246984,1272.0,True
+Wicked Choccy's,Interior,Michigan,Same Day,5,1269.0,0.0,1269.0,False
+Wicked Choccy's,Interior,Michigan,Second Class,19,1348.842105263158,260.27234948498216,1272.0,True
+Wicked Choccy's,Interior,Michigan,Standard Class,71,1269.3521126760563,243.0926395190318,1275.0,False
+Wicked Choccy's,Interior,Minnesota,First Class,6,1393.6666666666667,299.00144927185,1454.5,True
+Wicked Choccy's,Interior,Minnesota,Same Day,4,1635.0,0.0,1635.0,True
+Wicked Choccy's,Interior,Minnesota,Second Class,8,1182.875,258.1463801245885,1273.5,False
+Wicked Choccy's,Interior,Minnesota,Standard Class,27,1315.4074074074074,325.82797009597897,1275.0,True
+Wicked Choccy's,Interior,Missouri,First Class,5,1417.0,326.1870628948978,1636.0,True
+Wicked Choccy's,Interior,Missouri,Second Class,13,1358.0,338.4388177105772,1638.0,True
+Wicked Choccy's,Interior,Missouri,Standard Class,11,1207.5454545454545,220.4084225415915,1273.0,False
+Wicked Choccy's,Interior,Nebraska,First Class,3,1149.6666666666667,211.88754879259264,1272.0,False
+Wicked Choccy's,Interior,Nebraska,Same Day,1,1635.0,,1635.0,True
+Wicked Choccy's,Interior,Nebraska,Second Class,3,1394.3333333333333,212.7541617297611,1272.0,True
+Wicked Choccy's,Interior,Nebraska,Standard Class,7,1274.7142857142858,211.02346969449817,1274.0,True
+Wicked Choccy's,Interior,North Dakota,Second Class,2,1637.0,0.0,1637.0,True
+Wicked Choccy's,Interior,Oklahoma,First Class,1,1271.0,,1271.0,False
+Wicked Choccy's,Interior,Oklahoma,Same Day,3,1635.0,0.0,1635.0,True
+Wicked Choccy's,Interior,Oklahoma,Second Class,3,1150.3333333333333,209.00079744664455,1271.0,False
+Wicked Choccy's,Interior,Oklahoma,Standard Class,18,1315.1666666666667,246.78122008822976,1274.5,True
+Wicked Choccy's,Interior,South Dakota,First Class,2,908.0,0.0,908.0,False
+Wicked Choccy's,Interior,South Dakota,Standard Class,1,1640.0,,1640.0,True
+Wicked Choccy's,Interior,Texas,First Class,65,1384.0153846153846,288.2973991984931,1636.0,True
+Wicked Choccy's,Interior,Texas,Same Day,22,1236.1363636363637,274.17396206033413,1269.0,False
+Wicked Choccy's,Interior,Texas,Second Class,70,1330.0714285714287,268.5623195120599,1273.0,True
+Wicked Choccy's,Interior,Texas,Standard Class,231,1299.5454545454545,267.3388281036963,1274.0,True
+Wicked Choccy's,Interior,Wisconsin,First Class,6,1210.5,358.7304001614583,1089.5,False
+Wicked Choccy's,Interior,Wisconsin,Same Day,1,1269.0,,1269.0,False
+Wicked Choccy's,Interior,Wisconsin,Second Class,6,1272.0,1.2649110640673786,1271.5,False
+Wicked Choccy's,Interior,Wisconsin,Standard Class,34,1338.5588235294117,190.58143748467594,1274.0,True
+Wicked Choccy's,Pacific,Alberta,Second Class,4,1274.25,298.4296399488496,1274.0,True
+Wicked Choccy's,Pacific,Alberta,Standard Class,4,1274.5,422.04304677761644,1274.5,True
+Wicked Choccy's,Pacific,Arizona,First Class,22,1287.7272727272727,327.90448403361404,1270.5,True
+Wicked Choccy's,Pacific,Arizona,Same Day,6,1452.1666666666667,305.8590634044816,1635.0,True
+Wicked Choccy's,Pacific,Arizona,Second Class,14,1403.5714285714287,181.95211300936137,1274.0,True
+Wicked Choccy's,Pacific,Arizona,Standard Class,63,1303.6349206349207,265.32313236378815,1275.0,True
+Wicked Choccy's,Pacific,British Columbia,Standard Class,4,1364.75,349.98321388318044,1456.0,True
+Wicked Choccy's,Pacific,California,First Class,112,1343.25,249.3660249801771,1272.0,True
+Wicked Choccy's,Pacific,California,Same Day,46,1404.4565217391305,235.93226019551918,1269.0,True
+Wicked Choccy's,Pacific,California,Second Class,154,1336.512987012987,274.52021693026177,1273.0,True
+Wicked Choccy's,Pacific,California,Standard Class,511,1302.8512720156555,262.42721006349984,1274.0,True
+Wicked Choccy's,Pacific,Colorado,First Class,17,1293.1764705882354,328.9084666161162,1271.0,True
+Wicked Choccy's,Pacific,Colorado,Same Day,3,1026.0,211.31019852340302,904.0,False
+Wicked Choccy's,Pacific,Colorado,Second Class,8,1500.5,189.76827975191216,1638.0,True
+Wicked Choccy's,Pacific,Colorado,Standard Class,42,1317.2142857142858,216.645325045595,1274.0,True
+Wicked Choccy's,Pacific,Idaho,First Class,2,1637.0,0.0,1637.0,True
+Wicked Choccy's,Pacific,Idaho,Second Class,1,1271.0,,1271.0,False
+Wicked Choccy's,Pacific,Idaho,Standard Class,4,1182.5,350.41832143881976,1091.0,False
+Wicked Choccy's,Pacific,Montana,First Class,1,1638.0,,1638.0,True
+Wicked Choccy's,Pacific,Montana,Same Day,1,904.0,,904.0,False
+Wicked Choccy's,Pacific,Montana,Standard Class,5,1202.2,398.74202186376095,911.0,False
+Wicked Choccy's,Pacific,Nevada,First Class,1,1270.0,,1270.0,False
+Wicked Choccy's,Pacific,Nevada,Second Class,6,1273.0,231.16574140646364,1273.0,False
+Wicked Choccy's,Pacific,Nevada,Standard Class,5,1055.8,199.6514462757533,911.0,False
+Wicked Choccy's,Pacific,New Mexico,Second Class,6,1395.3333333333333,298.9231785370058,1456.0,True
+Wicked Choccy's,Pacific,New Mexico,Standard Class,11,1539.909090909091,170.99909622302366,1639.0,True
+Wicked Choccy's,Pacific,Oregon,First Class,8,1317.125,128.84590741324635,1272.0,True
+Wicked Choccy's,Pacific,Oregon,Second Class,5,1125.4,199.3722648715212,1271.0,False
+Wicked Choccy's,Pacific,Oregon,Standard Class,30,1347.7,261.37001780406376,1275.0,True
+Wicked Choccy's,Pacific,Saskatchewan,Standard Class,2,1457.0,258.8010819142764,1457.0,True
+Wicked Choccy's,Pacific,Utah,First Class,2,1453.5,258.0939751330898,1453.5,True
+Wicked Choccy's,Pacific,Utah,Same Day,1,1635.0,,1635.0,True
+Wicked Choccy's,Pacific,Utah,Second Class,8,1273.375,337.616831630178,1272.5,False
+Wicked Choccy's,Pacific,Utah,Standard Class,12,1213.4166666666667,261.91305230877094,1274.0,False
+Wicked Choccy's,Pacific,Washington,First Class,30,1430.0,283.1785107763604,1637.0,True
+Wicked Choccy's,Pacific,Washington,Same Day,19,1307.9473684210527,295.9413368453303,1269.0,True
+Wicked Choccy's,Pacific,Washington,Second Class,50,1374.6,256.14847416357276,1274.0,True
+Wicked Choccy's,Pacific,Washington,Standard Class,122,1373.3934426229507,270.29505021646514,1276.0,True
